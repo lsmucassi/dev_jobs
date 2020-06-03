@@ -6,19 +6,19 @@ import Jobs from './Jobs';
 const mockJobs = [
   {
     title: 'SME 1',
-    company: 'Google'
+    company: ' Google'
   },
   {
     title: 'SME 1',
-    company: 'Google'
+    company: ' Facebook'
   },
   {
     title: 'SME 1',
-    company: 'Google'
+    company: ' Microsoft'
   },
   {
     title: 'SME 1',
-    company: 'Google'
+    company: ' Apple'
   }
 ]
 

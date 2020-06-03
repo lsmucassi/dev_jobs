@@ -1,0 +1,29 @@
+{
+  "name": "dev-jobs",
+  "version": "1.0.0",
+  "description": "imisebenti yema Dev/Geek/Nerds/Genuises",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsmucassi/dev_jobs.git"
+  },
+  "keywords": [
+    "junior",
+    "dev",
+    "jobs",
+    "entry",
+    "level"
+  ],
+  "author": "lmucassi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsmucassi/dev_jobs/issues"
+  },
+  "homepage": "https://github.com/lsmucassi/dev_jobs#readme",
+  "dependencies": {
+    "cron": "^1.8.2"
+  }
+}
